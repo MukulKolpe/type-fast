@@ -22,7 +22,7 @@ const TryAgain=({ words, characters, wpm, startAgain}) => {
                    Re-try
                </button>
                <button onClick={() => {
-                   window.open("https://www.facebook.com/sharer/sharer.php?u=MukulKolpe", "facebook-share-dialog", "width=800, height=600");
+                   window.open("https://linkedin.com/post?url=Mukul", "linkedin-share-dialog", "width=800, height=600");
                }} className="end-buttons share-btn"
                >
                 Share
