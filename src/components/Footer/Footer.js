@@ -7,7 +7,6 @@ const Footer = () => {
       <a
         href="https://github.com/MukulKolpe/type-fast"
         className="footer-link"
-        href="https://github.com/MukulKolpe/type-fast"
         target="_blank"
         rel="noreferrer"
       >
