@@ -7,7 +7,7 @@ return (
     <div className="nav-container">
         <div className="nav-left">
         
-        <p className="flash-logo-text">⚡TYPE-FAST</p>
+        <p className="flash-logo-text">TYPE-FAST</p>
         </div>
     </div>
 );
