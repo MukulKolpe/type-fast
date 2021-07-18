@@ -6,8 +6,8 @@ const Nav=()=> {
 return (
     <div className="nav-container">
         <div className="nav-left">
-        <img className="flash-logo" src={logo} alt="logo"/>
-        <p className="flash-logo-text">TypeFast</p>
+        
+        <p className="flash-logo-text">⚡TYPE-FAST</p>
         </div>
     </div>
 );
