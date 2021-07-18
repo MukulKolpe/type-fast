@@ -8,8 +8,8 @@ const Footer= () => {
             <a 
             targets="_blank"
             className="footer-link"
-            href ="https://github.com/MukulKolpe"
-            rel="noreferrer">You can follow me on GitHub</a>
+            href ="https://github.com/MukulKolpe/type-fast"
+            rel="noreferrer">GitHub repository of the project</a>
 
             </div>
 
