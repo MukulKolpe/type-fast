@@ -6,8 +6,9 @@ const Footer= () => {
         <div 
         className="footer-container">
             <a 
-            targets="_blank"
             className="footer-link"
+            target="_blank"
+            rel="noopener noreferrer"
             href ="https://github.com/MukulKolpe/type-fast"
             rel="noreferrer">GitHub repository of the project</a>
 
