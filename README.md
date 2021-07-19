@@ -42,4 +42,4 @@ Make sure you have node.js installed.
  ```
    
 
-## Deployed [here](https://react-calculator-mukul.netlify.app/)
+## Deployed [here](https://type-fast-bymukul.netlify.app/)
