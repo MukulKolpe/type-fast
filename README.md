@@ -1,7 +1,7 @@
 # type-fast
 
 ## Description
-It is a simple calculator made using React.js
+It is a React.js web application which will help you to improve your typing speed.
 ## Tech-stack Used
 - React.js
 - CSS
@@ -26,7 +26,7 @@ Make sure you have node.js installed.
 1. Fork this repository.
 2. clone it.
  ```
- git clone https://github.com/YOUR_GITHUB_UserName/Hacking-Scripts
+ git clone https://github.com/YOUR_GITHUB_UserName/type-fast
  ```
 3. 
  ```
