@@ -10,13 +10,16 @@
   flex-wrap: wrap;
 }
 .landing-header {
-  font-size: 92px;
-  letter-spacing: 4px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 80px;
+  letter-spacing: 3px;
   margin: 0;
 }
 .typewriter-container {
-  font-size: 64px;
-  letter-spacing: 4px;
+ padding-left:30vh;
+  font-size: 70px;
+  font-weight: 600;
+  letter-spacing: 3px;
 }
 .hero-image {
   width: 40vw;
