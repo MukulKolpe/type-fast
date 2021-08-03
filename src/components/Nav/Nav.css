@@ -20,8 +20,8 @@
 
 .flash-logo-text {
   font-family: "Bangars", cursive;
-  font-size: 40px;
-  letter-spacing: 1px;
+  font-size: 35px;
+  letter-spacing: .2px;
   margin: 0 10px;
   color: #e7e6e7;
 }
