@@ -33,3 +33,7 @@ Make sure you have node.js installed.
    
 
 ## Deployed [here](https://type-fast-bymukul.netlify.app/)
+
+## License
+
+[MIT License]()
