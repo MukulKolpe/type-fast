@@ -37,7 +37,7 @@ const TypingChallenge = ({
           <textarea
             onChange={(e) => onInputChange(e.target.value)}
             className="textarea"
-            placeholder="Start typing here"
+            placeholder="Start typing here..."
           ></textarea>
         </div>
       </div>

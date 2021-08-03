@@ -7,7 +7,7 @@ const Landing = () => {
   return (
     <div className="landing-container">
       <div data-aos="fade-right" className="landing-left">
-        <h1 className="landing-header">Lets Improve Typing...</h1>
+        <h1 className="landing-header">Improve Typing...</h1>
         <div className="typewriter-container">
           <Typewriter
             options={{
