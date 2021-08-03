@@ -7,6 +7,17 @@ const Nav = () => {
       <div className="nav-left">
         <p className="flash-logo-text">⚡TYPE-FAST</p>
       </div>
+      <div className="nav-right">
+      <a
+        href="https://github.com/MukulKolpe/type-fast"
+        className="github-link"
+        target="_blank"
+        rel="noreferrer"
+      >
+        GitHub
+      </a>
+
+      </div>
     </div>
   );
 };

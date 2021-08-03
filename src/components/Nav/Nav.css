@@ -11,6 +11,12 @@
   display: flex;
   align-items: center;
 }
+.nav-right {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+ 
+}
 .flash-logo {
   margin: left 20px;
   height: 40px;
@@ -23,3 +29,12 @@
   margin: 0 10px;
   color: #e7e6e7;
 }
+.github-link {
+  
+  font-size: 26px;
+  color: #e7e6e7;
+ 
+  margin-left: 50em;
+ 
+}
+
