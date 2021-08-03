@@ -36,4 +36,4 @@ Make sure you have node.js installed.
 
 ## License
 
-[MIT License]()
+### [MIT License](https://github.com/MukulKolpe/type-fast/blob/main/LICENSE)
