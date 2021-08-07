@@ -61,3 +61,13 @@
   background: #e9e7e4;
   padding: 12px;
 }
+
+@media (max-width: 768px){
+  .textarea-container {
+    margin: 16px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    width: 80%;
+  }
+}
