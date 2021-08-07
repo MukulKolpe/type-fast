@@ -5,12 +5,12 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <a
-        href="https://github.com/MukulKolpe/type-fast"
+        href="https://www.linkedin.com/in/mukulkolpe/"
         className="footer-link"
         target="_blank"
         rel="noreferrer"
       >
-        GitHub repository of the project
+        Linkedin
       </a>
     </div>
   );
