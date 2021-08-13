@@ -13,7 +13,7 @@ const Footer = () => {
        <i class="fab fa-linkedin"></i>
       </a>
       <a
-        href="https://www.linkedin.com/in/mukulkolpe/"
+        href="https://twitter.com/MukulKolpe"
         className="footer-link"
         target="_blank"
         rel="noreferrer"
@@ -22,7 +22,7 @@ const Footer = () => {
       </a>
 
       <a
-        href="https://www.linkedin.com/in/mukulkolpe/"
+        href="https://github.com/MukulKolpe"
         className="footer-link"
         target="_blank"
         rel="noreferrer"
@@ -31,14 +31,13 @@ const Footer = () => {
       </a>
 
       <a
-        href="https://www.linkedin.com/in/mukulkolpe/"
+        href="https://www.instagram.com/mukul_kolpe/?hl=en"
         className="footer-link"
         target="_blank"
         rel="noreferrer"
       >
        <i class="fab fa-instagram"></i>
       </a>
-
     
      
     </div>
