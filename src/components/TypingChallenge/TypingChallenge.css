@@ -70,4 +70,11 @@
     flex-grow: 1;
     width: 80%;
   }
+
+  .textarea-left,
+.textarea-right {
+  display: flex;
+  width: 100%;
+  flex-grow: 1;
+}
 }
