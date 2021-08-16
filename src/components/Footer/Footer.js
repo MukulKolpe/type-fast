@@ -10,7 +10,7 @@ const Footer = () => {
         target="_blank"
         rel="noreferrer"
       >
-       <i class="fab fa-linkedin"></i>
+       <i class="fa fa-linkedin"></i>
       </a>
       <a
         href="https://twitter.com/MukulKolpe"
@@ -18,7 +18,7 @@ const Footer = () => {
         target="_blank"
         rel="noreferrer"
       >
-       <i class="fab fa-twitter"></i>
+       <i class="fa fa-twitter"></i>
       </a>
 
       <a
@@ -27,7 +27,7 @@ const Footer = () => {
         target="_blank"
         rel="noreferrer"
       >
-       <i class="fab fa-github"></i>
+       <i class="fa fa-github"></i>
       </a>
 
       <a
@@ -36,7 +36,7 @@ const Footer = () => {
         target="_blank"
         rel="noreferrer"
       >
-       <i class="fab fa-instagram"></i>
+       <i class="fa fa-instagram"></i>
       </a>
     
      
