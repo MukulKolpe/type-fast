@@ -9,3 +9,9 @@ body {
   flex-direction: column;
   background-color: #262a2b;
 }
+
+@media (max-width: 650px){
+  body{
+      overflow-x: hidden;
+  }
+}
