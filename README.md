@@ -5,6 +5,9 @@ It is a React.js web application which will help you to improve your typing spee
 
 ## [Code of Conduct](https://github.com/MukulKolpe/type-fast/blob/main/CODE_OF_CONDUCT.md)
 
+## [Contributing Guidlines](https://github.com/MukulKolpe/type-fast/blob/main/CONTRIBUTING.md)
+
+
 ## Tech-stack Used
 - React.js
 - CSS
