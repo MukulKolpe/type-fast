@@ -9,8 +9,38 @@
 }
 
 .footer-link {
-  font-size: 40px;
-  color: #4447f7;
+  height: 60px;
+  width: 60px;
+  font-size: 30px;
+  background-color: #f5f6fa;
+  border-radius: 50px;
   margin: 10px;
   text-align: center;
+  box-shadow: 1px 4px 2px 2px #dcdde1;
+  line-height: 70px;
+}
+ 
+a i {
+  transition: all 0.3s linear;
+}
+
+a:hover i{
+  transform: scale(1.4);
+}
+
+.fa-instagram {
+  color: #e84396;
+
+}
+
+.fa-linkedin {
+  color: #176e9c;
+}
+
+.fa-twitter {
+  color: #0097e6;
+}
+
+.fa-github{
+  color: #1d2020;
 }
