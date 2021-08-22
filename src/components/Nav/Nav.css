@@ -34,3 +34,14 @@
  
 }
 
+@media (max-width: 650px){
+  .github-link {
+  
+    font-size: 26px;
+    color: #e7e6e7;
+   
+    margin-left: 13em;
+   
+  }
+}
+
