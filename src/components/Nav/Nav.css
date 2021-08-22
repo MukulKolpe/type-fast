@@ -20,7 +20,7 @@
 
 .flash-logo-text {
   font-family: "Bangars", cursive;
-  font-size: 35px;
+  font-size: 30px;
   letter-spacing: .2px;
   margin: 0 10px;
   color: #e7e6e7;
@@ -37,10 +37,10 @@
 @media (max-width: 650px){
   .github-link {
   
-    font-size: 18px;
+    font-size: 19px;
     color: #e7e6e7;
    
-    margin-left: 15em;
+    margin-left: 14em;
    
   }
 }
