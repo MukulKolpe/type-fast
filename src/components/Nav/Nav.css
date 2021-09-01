@@ -29,8 +29,8 @@
 .github-link {
   
   font-size: 26px;
-  color: #282980bd;
- 
+  color: #101264bd;
+  font-weight:700;
   margin-left: 50em;
  
 }
@@ -39,8 +39,8 @@
   .github-link {
   
     font-size: 19px;
-    color: #282980bd;
-   
+    color: #101264bd;
+    font-weight:700;
     margin-left: 14em;
    
   }
