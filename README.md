@@ -32,11 +32,11 @@ Make sure you have node.js installed.
  ```
 4. Install node modules
  ```
- npm install
+ yarn install
  ```
 5. 
  ```
- npm start
+ yarn start
  ```
    
 
