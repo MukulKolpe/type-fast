@@ -24,25 +24,27 @@
   font-weight: 700;
   letter-spacing: .2px;
   margin: 0 10px;
-  color: #282980bd;
+  color: rgb(0, 0, 0);
 }
 .github-link {
   
   font-size: 26px;
-  color: #101264bd;
+  color: rgb(0, 0, 0);
   font-weight:700;
   margin-left: 50em;
- 
+  border: 2px solid rgb(0, 0, 0);
+  padding: 5px;
 }
 
 @media (max-width: 650px){
   .github-link {
   
     font-size: 19px;
-    color: #101264bd;
+    color: rgb(0, 0, 0);
     font-weight:700;
     margin-left: 14em;
-   
+    border: 2px solid rgb(0, 0, 0);
+    padding: 5px;
   }
 
   .flash-logo-text {
@@ -50,7 +52,7 @@
     font-size: 25px;
     letter-spacing: .2px;
     margin: 0 10px;
-    color: #282980bd;
+    color: rgb(0, 0, 0);
   }
 }
 
