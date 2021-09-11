@@ -55,6 +55,7 @@ a:hover i{
 @media (max-width: 650px){
   .footer-link {
     font-size: 25px;
+    margin: 18px 8px 18px 8px;
   }
   .footer-header{
     display: flex;
