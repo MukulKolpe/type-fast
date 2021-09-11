@@ -21,7 +21,7 @@ const Landing = () => {
       <div className="landing-right">
         <img
           data-aos="fade-left"
-          className="hero-image"
+          className="monkey-image"
           src={monkey}
           alt="monkey"
         />

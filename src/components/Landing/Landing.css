@@ -22,7 +22,7 @@
   font-weight: 600;
   letter-spacing: 3px;
 }
-.hero-image {
+.monkey-image {
   width: 40vw;
 }
 
@@ -31,7 +31,7 @@
     flex-direction: column;
     align-items: center;
   }
-  .hero-image {
+  .monkey-image {
     width: 80vw;
   }
   .landing-header {
