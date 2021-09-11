@@ -4,6 +4,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div className="footer-container">
+       <div className="footer-header">👋Connect with me</div> 
       <a
         href="https://www.linkedin.com/in/mukulkolpe/"
         className="footer-link"

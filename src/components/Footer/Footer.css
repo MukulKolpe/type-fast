@@ -14,10 +14,17 @@
   font-size: 30px;
   background-color: #f5f6fa;
   border-radius: 50px;
-  margin: 10px;
+  margin: 20px 10px 20px 10px;
   text-align: center;
   box-shadow: 1px 4px 2px 2px #dcdde1;
   line-height: 61px;
+}
+
+.footer-header{
+  display: flex;
+  font-size: 30px;
+  font-weight: bold;
+  align-items: center;
 }
  
 a i {
@@ -43,4 +50,16 @@ a:hover i{
 
 .fa-github{
   color: #1d2020;
+}
+
+@media (max-width: 650px){
+  .footer-link {
+    font-size: 25px;
+  }
+  .footer-header{
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    align-items: center;
+  }
 }
