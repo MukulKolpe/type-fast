@@ -15,44 +15,40 @@
   display: flex;
   flex-direction: column;
   position: absolute;
- 
 }
 
 .flash-logo-text {
   font-family: "Bangars", cursive;
   font-size: 35px;
   font-weight: 700;
-  letter-spacing: .2px;
+  letter-spacing: 0.2px;
   margin: 0 10px;
   color: rgb(0, 0, 0);
 }
 .github-link {
-  
   font-size: 26px;
   color: rgb(0, 0, 0);
-  font-weight:700;
+  font-weight: 700;
   margin-left: 50em;
   border: 2px solid rgb(0, 0, 0);
   padding: 5px;
 }
 
-@media (max-width: 650px){
+@media (max-width: 650px) {
   .github-link {
-  
     font-size: 19px;
     color: rgb(0, 0, 0);
-    font-weight:700;
+    font-weight: 700;
     margin-left: 14em;
     border: 2px solid rgb(0, 0, 0);
     padding: 5px;
   }
 
   .flash-logo-text {
-    font-family: "Bangars";
+    font-family: sans-serif;
     font-size: 25px;
-    letter-spacing: .2px;
+    letter-spacing: 0.2px;
     margin: 0 10px;
     color: rgb(0, 0, 0);
   }
 }
-
