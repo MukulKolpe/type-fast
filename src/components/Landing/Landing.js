@@ -1,6 +1,6 @@
 import React from "react";
 import "./Landing.css";
-import hero from "./../../Assets/hero.png";
+import monkey from "./../../Assets/monkey.png";
 import Typewriter from "typewriter-effect";
 
 const Landing = () => {
@@ -22,8 +22,8 @@ const Landing = () => {
         <img
           data-aos="fade-left"
           className="hero-image"
-          src={hero}
-          alt="hero"
+          src={monkey}
+          alt="monkey"
         />
       </div>
     </div>
