@@ -38,7 +38,14 @@ Make sure you have node.js installed.
  ```
  yarn start
  ```
+
    
+## Screenshots
+
+![sc1](https://user-images.githubusercontent.com/78664749/137531573-0db40d2d-c7b6-4eca-b655-32c83ab95321.png)  
+![sc2](https://user-images.githubusercontent.com/78664749/137531629-cbe8f0f6-113f-4e60-a5ad-1fff019fe9c3.png)  
+![sc3](https://user-images.githubusercontent.com/78664749/137531648-8b25c1e6-d05a-4946-9621-4ad5c4ccbca9.png)  
+
 
 ## Deployed [here](https://type-fast-bymukul.netlify.app/)
 
