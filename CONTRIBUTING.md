@@ -1,13 +1,9 @@
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change.
+email, or any other method with the owner of this repository before making a change.
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
-
-If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
-
-## The beginner's guide to contributing to a GitHub project
 
 
 ## Fork this repository
