@@ -8,10 +8,10 @@ React.js web application which will help you to improve your typing speed.
 ## [Contributing Guidlines](https://github.com/MukulKolpe/type-fast/blob/main/CONTRIBUTING.md)
 
 
-## Tech-stack Used
+## Tech Used
 - React.js
 - CSS
-- JavaScript
+- Animate on Scroll Library
 
 
 
