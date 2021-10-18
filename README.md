@@ -12,6 +12,8 @@ React.js web application which will help you to improve your typing speed.
 - React.js
 - CSS
 - Animate on Scroll Library
+- baconipsum API
+- typewriter-effect package
 
 
 
