@@ -1,7 +1,7 @@
 # type-fast
 
 ## Description
-It is a React.js web application which will help you to improve your typing speed.
+React.js web application which will help you to improve your typing speed.
 
 ## [Code of Conduct](https://github.com/MukulKolpe/type-fast/blob/main/CODE_OF_CONDUCT.md)
 
