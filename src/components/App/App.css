@@ -7,11 +7,12 @@ body {
 .app {
   display: flex;
   flex-direction: column;
-  background-color: #83adcc;
+  background-color: #f8ceec;
+  background-image: linear-gradient(315deg, #f8ceec 0%, #a88beb 74%);
 }
 
-@media (max-width: 650px){
-  body{
-      overflow-x: hidden;
+@media (max-width: 650px) {
+  body {
+    overflow-x: hidden;
   }
 }
