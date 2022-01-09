@@ -4,14 +4,14 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div className="footer-container">
-       <div className="footer-header">👋Connect with me</div> 
+      <div className="footer-header">👋Connect with me</div>
       <a
         href="https://www.linkedin.com/in/mukulkolpe/"
         className="footer-link"
         target="_blank"
         rel="noreferrer"
       >
-       <i class="fa fa-linkedin"></i>
+        <i className="fa fa-linkedin"></i>
       </a>
       <a
         href="https://twitter.com/MukulKolpe"
@@ -19,7 +19,7 @@ const Footer = () => {
         target="_blank"
         rel="noreferrer"
       >
-       <i class="fa fa-twitter"></i>
+        <i className="fa fa-twitter"></i>
       </a>
 
       <a
@@ -28,7 +28,7 @@ const Footer = () => {
         target="_blank"
         rel="noreferrer"
       >
-       <i class="fa fa-github"></i>
+        <i className="fa fa-github"></i>
       </a>
 
       <a
@@ -37,10 +37,8 @@ const Footer = () => {
         target="_blank"
         rel="noreferrer"
       >
-       <i class="fa fa-instagram"></i>
+        <i className="fa fa-instagram"></i>
       </a>
-    
-     
     </div>
   );
 };

@@ -20,12 +20,13 @@
 }
 
 .flash-logo-text {
-  font-family: "Bangars", cursive;
-  font-size: 35px;
-  font-weight: 700;
-  letter-spacing: 0.2px;
-  margin: 0 10px;
-  color: rgb(0, 0, 0);
+  background: url("../../Assets/logo2.png") !important;
+  height: 62px;
+  width: 180px;
+  margin-left: 22px;
+  background-repeat: no-repeat !important;
+  position: sticky;
+  margin-top: 7px;
 }
 .github-link {
   background-color: #c9b8f0;
