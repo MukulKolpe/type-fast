@@ -1,5 +1,5 @@
 # type-fast👨‍💻
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d0b3f5b-28fa-496b-ad90-00b09804c624/deploy-status)](https://app.netlify.com/sites/type-fast-bymukul/deploys) <a href="https://github.com/MukulKolpe/type-fast"><img src="https://img.shields.io/github/license/MukulKolpe/type-fast"></img></a>
 ## Description📰
 React.js web application which will help you to improve your typing speed.
 
