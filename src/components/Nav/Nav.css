@@ -21,12 +21,12 @@
 
 .flash-logo-text {
   background: url("../../Assets/logo2.png") !important;
-  height: 62px;
+  height: 57px;
   width: 180px;
   margin-left: 22px;
   background-repeat: no-repeat !important;
   position: sticky;
-  margin-top: 7px;
+  margin-top: 10px;
 }
 .github-link {
   background-color: #c9b8f0;
@@ -49,6 +49,7 @@
   }
 
   .flash-logo-text {
+    height: 48px;
     font-family: sans-serif;
     font-size: 25px;
     letter-spacing: 0.2px;
