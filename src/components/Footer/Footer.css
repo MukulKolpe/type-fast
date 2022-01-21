@@ -59,8 +59,15 @@ a:hover i {
   }
   .footer-header {
     display: flex;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: bold;
     align-items: center;
+  }
+  .footer-link {
+    height: 26px;
+    width: 30px;
+    font-size: 20px;
+    border-radius: 30px;
+    line-height: 35px;
   }
 }
