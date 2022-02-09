@@ -43,9 +43,10 @@ Make sure you have node.js installed.
    
 ## Screenshots📷
 
-![image](https://user-images.githubusercontent.com/78664749/149383135-402aaf72-8241-4357-8f2d-bcf776eb0d62.png)
-![image](https://user-images.githubusercontent.com/78664749/149383286-5d79e6cc-35c2-4151-b1b4-21402dc698ae.png)
-![image](https://user-images.githubusercontent.com/78664749/149383412-3f45c462-9a3a-4321-bbea-4ee15f3573e1.png)
+![image](https://user-images.githubusercontent.com/78664749/153219759-b552ce28-17ff-4161-8910-e6df36a0e449.png)
+![image](https://user-images.githubusercontent.com/78664749/153219935-96681d9c-8c9b-48bf-b860-2af89880547f.png)
+![image](https://user-images.githubusercontent.com/78664749/153220189-9454126e-7f62-40e1-8e50-ddd11a22cb35.png)
+
 
 
 ## Deployed [here](https://type-fast-bymukul.netlify.app/)💥
