@@ -1,9 +1,7 @@
 .footer-container {
   display: flex;
   justify-content: center;
-  background-color: #a4508b;
-  background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
-
+  background-color: #5f0a87;
   margin: 0;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.26);
   z-index: 99;
@@ -13,11 +11,11 @@
   height: 50px;
   width: 50px;
   font-size: 30px;
-  background-color: #c9b8f0;
+  background-color: #ffffff;
   border-radius: 50px;
   margin: 20px 10px 20px 10px;
   text-align: center;
-  box-shadow: 1px 4px 2px 2px #c9b8f0;
+  box-shadow: 1px 4px 2px 2px #ffffff9a;
   line-height: 61px;
 }
 

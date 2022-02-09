@@ -2,8 +2,7 @@
   display: flex;
   height: 72px;
   align-items: center;
-  background-color: #a4508b;
-  background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
+  background-color: #5f0a87;
 
   margin: 0;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.26);
@@ -29,13 +28,13 @@
   margin-top: 10px;
 }
 .github-link {
-  background-color: #c9b8f0;
+  background-color: #a88beb;
   font-size: 26px;
   color: rgb(0, 0, 0);
   font-weight: 700;
   margin-left: 50em;
-  border: 2px solid #5f0a87;
-  border-radius: 8px;
+  border: 2px solid #7a528d;
+  border-radius: 12px;
   padding: 2px;
 }
 
