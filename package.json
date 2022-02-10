@@ -16,11 +16,13 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "prettier --check .",
+    "format": "prettier --write ."
   },
   "husky": {
     "hooks": {
-      "pre-commit": ""
+      "pre-commit": "yarn format && git add -A ."
     }
   },
   "browserslist": {

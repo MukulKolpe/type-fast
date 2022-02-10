@@ -10,14 +10,13 @@
   flex-wrap: wrap;
 }
 .landing-header {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 88px;
   letter-spacing: 3px;
   margin: 0;
   text-shadow: 1px 1px 0 black;
 }
 .typewriter-container {
- 
   font-size: 95px;
   font-weight: 600;
   letter-spacing: 3px;
@@ -43,13 +42,12 @@
   }
 
   .landing-header {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
     font-size: 75px;
     letter-spacing: 3px;
     margin: 0;
   }
   .typewriter-container {
-   
     font-size: 70px;
     font-weight: 600;
     letter-spacing: 3px;

@@ -5,14 +5,12 @@ email, or any other method with the owner of this repository before making a cha
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
-
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
-
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -23,7 +21,6 @@ git clone "url you just copied"
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
-
 
 For example:
 
@@ -52,7 +49,6 @@ For example:
 ```
 git checkout -b add-alonzo-church
 ```
-
 
 ## Make necessary changes and commit those changes
 
@@ -87,11 +83,9 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
 Now submit the pull request.
- 
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> branch -> edit -> PR_ workflow that you'll encounter often as a contributor!
-

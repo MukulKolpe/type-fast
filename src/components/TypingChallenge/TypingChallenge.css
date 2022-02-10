@@ -62,7 +62,7 @@
   padding: 12px;
 }
 
-@media (max-width: 768px){
+@media (max-width: 768px) {
   .textarea-container {
     margin: 16px;
     display: flex;
@@ -72,9 +72,9 @@
   }
 
   .textarea-left,
-.textarea-right {
-  display: flex;
-  width: 100%;
-  flex-grow: 1;
-}
+  .textarea-right {
+    display: flex;
+    width: 100%;
+    flex-grow: 1;
+  }
 }
