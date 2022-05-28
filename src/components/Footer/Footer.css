@@ -5,26 +5,29 @@
   margin: 0;
   padding-top: 5px;
   padding-bottom: 5px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.26);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 12%), 0 1px 2px rgba(0, 0, 0, 26%);
   z-index: 99;
 }
+
 .footer-items {
   display: flex;
   flex-direction: row;
 }
+
 .footer-links {
   display: flex;
   align-items: center;
   justify-content: center;
   
 }
+
 .footer-link {
   height: 50px;
   width: 50px;
   font-size: 30px;
-  background-color: #ffffff;
+  background-color: #fff;
   border-radius: 50px;
-  margin: 20px 10px 20px 10px;
+  margin: 20px 10px;
   text-align: center;
   box-shadow: 1px 4px 2px 2px #ffffffc9;
   line-height: 61px;
@@ -67,16 +70,19 @@ a:hover i {
     display: flex;
     flex-direction: column;
   }
+  
   .footer-link {
     font-size: 25px;
-    margin: 18px 8px 18px 8px;
+    margin: 18px 8px;
   }
+
   .footer-header {
     display: flex;
     font-size: 17px;
     font-weight: bold;
     align-items: center;
   }
+
   .footer-link {
     height: 26px;
     width: 30px;
