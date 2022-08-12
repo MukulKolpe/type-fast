@@ -1,4 +1,5 @@
 import React from "react";
+import ScrollToTop from "react-scroll-to-top";
 import "./Footer.css";
 
 const Footer = () => {
@@ -43,6 +44,20 @@ const Footer = () => {
           </a>
         </div>
       </div>
+      <ScrollToTop
+        smooth
+        color="#5f0a87"
+        style={{
+          backgroundColor: "#a88beb",
+          width: "40px",
+          height: "40px",
+          margin: "0 auto",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          cursor: "pointer",
+        }}
+      />
     </div>
   );
 };
