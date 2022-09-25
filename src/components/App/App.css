@@ -7,7 +7,7 @@ body {
 .app {
   display: flex;
   flex-direction: column;
-  background-color: #a88beb;
+  background-color: #DFDCE3;
 }
 
 @media (max-width: 650px) {

@@ -46,9 +46,9 @@ const Footer = () => {
       </div>
       <ScrollToTop
         smooth
-        color="#5f0a87"
+        color="#39445a"
         style={{
-          backgroundColor: "#a88beb",
+          backgroundColor: "#fff",
           width: "40px",
           height: "40px",
           margin: "0 auto",

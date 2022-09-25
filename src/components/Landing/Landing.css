@@ -3,7 +3,7 @@
   min-height: 90vh;
   justify-content: space-between;
   align-items: center;
-  color: #282980bd;
+  color: #39445a;
   padding: 0 32px;
   font-family: "Bangers", cursive;
   margin: 0;
@@ -21,8 +21,8 @@
   font-weight: 600;
   letter-spacing: 3px;
 }
-.monkey-image {
-  width: 40vw;
+.hero-image {
+ width: 40vw;
 }
 
 @media (max-width: 800px) {
@@ -30,8 +30,8 @@
     flex-direction: column;
     align-items: center;
   }
-  .monkey-image {
-    width: 80vw;
+  .hero-image {
+    width: 70vw;
   }
   .landing-header {
     margin-top: 32px;
