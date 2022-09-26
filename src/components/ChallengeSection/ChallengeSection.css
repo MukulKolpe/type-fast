@@ -12,3 +12,10 @@
   letter-spacing: 4px;
   text-shadow: 1px 1px 1px black;
 }
+
+@media (max-width: 650px) {
+  .challenge-section-header {
+    font-size: 50px;
+  }
+}
+  
