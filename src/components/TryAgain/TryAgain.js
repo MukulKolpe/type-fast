@@ -17,40 +17,46 @@ const TryAgain = ({ words, characters, wpm, startAgain }) => {
           <b>Speed:</b> {wpm} wpm
         </p>
       </div>
-      <div>
-        <button
-          onClick={() => {
-            startAgain();
-            window.scrollTo(0, 0);
-          }}
-          className="end-buttons start-again-btn"
-        >
-          Re-try
-        </button>
-        <button
-          onClick={() => {
-            window.open(
-              "https://linkedin.com/post?url=Mukul",
-              "linkedin-share-dialog",
-              "width=800, height=600"
-            );
-          }}
-          className="end-buttons share-btn"
-        >
-          Share
-        </button>
-        <button
-          onClick={() => {
-            window.open(
-              "https://twitter.com/intent/tweet?text=MukulKolpe.com",
-              "Twitter",
-              "width=800, height=600"
-            );
-          }}
-          className="end-buttons tweet-btn"
-        >
-          Tweet
-        </button>
+      <div className="buttons">
+        <div>
+          <button
+            onClick={() => {
+              startAgain();
+              window.scrollTo(0, 0);
+            }}
+            className="end-buttons start-again-btn"
+          >
+            Re-try
+          </button>
+        </div>
+        <div>
+          <button
+            onClick={() => {
+              window.open(
+                "https://linkedin.com/post?url=Mukul",
+                "linkedin-share-dialog",
+                "width=800, height=600"
+              );
+            }}
+            className="end-buttons share-btn"
+          >
+            Share
+          </button>
+        </div>
+        <div>
+          <button
+            onClick={() => {
+              window.open(
+                "https://twitter.com/intent/tweet?text=MukulKolpe.com",
+                "Twitter",
+                "width=800, height=600"
+              );
+            }}
+            className="end-buttons tweet-btn"
+          >
+            Tweet
+          </button>
+        </div>
       </div>
     </div>
   );
