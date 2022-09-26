@@ -19,7 +19,10 @@ const TryAgain = ({ words, characters, wpm, startAgain }) => {
       </div>
       <div>
         <button
-          onClick={() => startAgain()}
+          onClick={() => {
+            startAgain();
+            window.scrollTo(0, 0);
+          }}
           className="end-buttons start-again-btn"
         >
           Re-try

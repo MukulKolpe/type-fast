@@ -1,12 +1,13 @@
 import React from "react";
 import "./Nav.css";
+import { Link } from "react-router-dom";
 import GitHubIcon from "@mui/icons-material/GitHub";
 
 const Nav = () => {
   return (
     <div className="nav-container">
       <div className="nav-left">
-        <span className="logo"></span>
+        <Link to="/" className="logo" />
       </div>
       <div className="nav-right">
         <button className="nav-button">
