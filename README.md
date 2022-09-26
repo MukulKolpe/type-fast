@@ -51,9 +51,9 @@ yarn start
 
 ## Screenshots📷
 
-![image](https://user-images.githubusercontent.com/78664749/153219759-b552ce28-17ff-4161-8910-e6df36a0e449.png)
-![image](https://user-images.githubusercontent.com/78664749/153219935-96681d9c-8c9b-48bf-b860-2af89880547f.png)
-![image](https://user-images.githubusercontent.com/78664749/153220189-9454126e-7f62-40e1-8e50-ddd11a22cb35.png)
+![image](https://user-images.githubusercontent.com/78664749/192309166-18dbd29c-728a-48de-9d7a-822baf742753.png)
+![image](https://user-images.githubusercontent.com/78664749/192309331-c9808744-3da0-4405-958b-a886185e1bca.png)
+![image](https://user-images.githubusercontent.com/78664749/192309507-a0d34e01-ad08-4c2b-9db1-5fc109ce24db.png)
 
 ## Deployed [here](https://type-fast-bymukul.netlify.app/)💥
 
