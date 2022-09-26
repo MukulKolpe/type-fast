@@ -10,16 +10,14 @@ const Nav = () => {
         <Link to="/" className="logo" />
       </div>
       <div className="nav-right">
-        <button className="nav-button">
+        <button
+          className="nav-button"
+          onClick={() =>
+            window.open("https://github.com/MukulKolpe/type-fast", "_blank")
+          }
+        >
           <GitHubIcon />
-          <a
-            href="https://github.com/MukulKolpe/type-fast"
-            target="_blank"
-            rel="noreferrer"
-            className="nav-link"
-          >
-            Code
-          </a>
+          <span className="nav-link">Code</span>
         </button>
       </div>
     </div>
