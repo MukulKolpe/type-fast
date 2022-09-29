@@ -16,6 +16,8 @@
   margin: 7px;
 }
 .end-buttons {
+  display: flex;
+  flex-direction: row;
   position: relative;
   margin: 12px;
   border: none;

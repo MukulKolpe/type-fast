@@ -1,4 +1,7 @@
 import React from "react";
+import RestartAltIcon from "@mui/icons-material/RestartAlt";
+import ShareIcon from "@mui/icons-material/Share";
+import TwitterIcon from "@mui/icons-material/Twitter";
 import "./TryAgain.css";
 
 const TryAgain = ({ words, characters, wpm, startAgain }) => {
@@ -26,7 +29,8 @@ const TryAgain = ({ words, characters, wpm, startAgain }) => {
             }}
             className="end-buttons start-again-btn"
           >
-            Re-try
+            <RestartAltIcon style={{ marginTop: "5px", marginRight: "3px" }} />
+            Retry
           </button>
         </div>
         <div>
@@ -40,6 +44,7 @@ const TryAgain = ({ words, characters, wpm, startAgain }) => {
             }}
             className="end-buttons share-btn"
           >
+            <ShareIcon style={{ marginTop: "5px", marginRight: "3px" }} />
             Share
           </button>
         </div>
@@ -54,6 +59,7 @@ const TryAgain = ({ words, characters, wpm, startAgain }) => {
             }}
             className="end-buttons tweet-btn"
           >
+            <TwitterIcon style={{ marginTop: "5px", marginRight: "3px" }} />
             Tweet
           </button>
         </div>
