@@ -20,7 +20,12 @@ const TypingChallenge = ({
         </p>
       </div>
       <div className="textarea-container">
-        <div className="textarea-left">
+        <div
+          className="textarea-left"
+          onCopy={(e) => {
+            e.preventDefault();
+          }}
+        >
           <div className="textarea test-paragraph">
             {testInfo.map((individualLetterInfo, index) => {
               return (
@@ -32,7 +37,13 @@ const TypingChallenge = ({
             })}
           </div>
         </div>
-        <div className="textarea-right">
+        <div
+          className="textarea-right"
+          onPaste={(e) => {
+            e.preventDefault();
+            return false;
+          }}
+        >
           <textarea
             onChange={(e) => onInputChange(e.target.value)}
             className="textarea"
