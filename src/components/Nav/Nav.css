@@ -63,7 +63,10 @@
     margin-right: 30px;
   }
   .nav-button {
-    padding: 6px;
+    border-radius: 40px;
   }
-  
+  .nav-link {
+    display: none;
+    visibility: hidden;
+  }
 }
